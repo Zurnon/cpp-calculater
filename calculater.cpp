@@ -68,6 +68,10 @@ bool isIn(std::vector<std::string> holder, __Type hider) {
     return false;
 }
 
+void yoyo() {
+    
+}
+
 int main() {
 
     return 0;
